@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41998'
     url: http://www.gutenberg.org/2009/agents/41998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43048#The-Piebald-Hippogriff
 gutenberg_bookshelf:
 - Science Fiction
 - Science Fiction by Women
